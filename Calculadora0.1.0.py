@@ -1,6 +1,6 @@
 #Calculadora
 #Criar uma funcao reguladora. Exemplo. Funcao_reguladora = 0 ate 3, if menu == 0
-#Funcao soma -> ira soma a + b
+#Funcao soma -> ira soma a + b / a funcao subtacao a -b , a multiplicacao seria um pelo outro e a divisao a pelo b.
 print('Bem vindo,bem vinda. Voce esta acessando uma calculadora na versao beta 0.1.0.''\n''Bugs podem acontecer')
 print('Para usar a calculadora, digite o valor reference ao calculo''\n''0 - para soma ''\n''1 - para subracao''\n''2 - para multiplicacao''\n''3 - para divisao')
 menu = int(input())
